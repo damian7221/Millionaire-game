@@ -1,0 +1,8 @@
+Ile wynosi 5% z liczby 25?
+A. 1,25
+B. 1,5
+A. 1,25
+B. 1,5
+C. 2,25
+D. 2,5
+Aa

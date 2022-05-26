@@ -1,0 +1,8 @@
+Liczby 1, 2, 3, 4 sa liczbami:
+A. naturalnymi
+C. pierwszymi
+A. naturalnymi
+B. ujemnymi
+C. pierwszymi
+D. parzystymi
+Aa

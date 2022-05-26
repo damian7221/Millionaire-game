@@ -1,0 +1,8 @@
+Ile jest pol na szachownicy?
+A. 64
+D. 48
+A. 64
+B. 32
+C. 24
+D. 48
+Aa

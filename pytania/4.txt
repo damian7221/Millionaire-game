@@ -1,0 +1,8 @@
+Pole kola o promieniu r oblicza się wzorem:
+C. pi*r^2
+D. pi*r
+A. 4*pi*r^2
+B. 2*pi*r^2
+C. pi*r^2
+D. pi*r
+Cc
